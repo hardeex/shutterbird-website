@@ -33,7 +33,7 @@ ob_start(); // Start buffering output
                         <div class="table-cell">
                             <div class="container">
                                <div class="slider-text">
-                                    <h1 class="wow cssanimation lePushReleaseFrom sequence" data-wow-delay="1s">Urenna Amadi. Our Super Hero</h1>
+                                    <h1 class="wow cssanimation lePushReleaseFrom sequence" data-wow-delay="1s">Shutterbird Our Super Hero</h1>
                                     <p class="wow cssanimation fadeInTop" data-wow-delay="1s">Join Us As We Explore The Adventure Of Our New Super Hero<br> <br>Movies | Comics | Games | Brands  </p>
                                    
                                 </div>
@@ -47,7 +47,7 @@ ob_start(); // Start buffering output
                             <div class="container">
                                <div class="slider-text">
                                     <h5 class="wow cssanimation fadeInBottom"></h5>
-                                    <h1 class="wow cssanimation lePushReleaseFrom sequence" data-wow-delay="1s">Urenna Amadi Saves The Day</h1>
+                                    <h1 class="wow cssanimation lePushReleaseFrom sequence" data-wow-delay="1s">Shutterbird Saves The Day</h1>
                                     <p  class="wow cssanimation fadeInTop" data-wow-delay="1s">Fighting Crims And Saving Lives Is Her Priority In Africa <br><br>Movies | Comics | Games | Brands  </p>
                                     
                                 </div>
@@ -71,7 +71,7 @@ ob_start(); // Start buffering output
                             <div class="container">
                                <div class="slider-text">
                                     <h5 class="wow cssanimation fadeInBottom"></h5>
-                                    <h1 class="wow cssanimation lePushReleaseFrom sequence" data-wow-delay="1s">Urenna Amadi Is Bold </h1>
+                                    <h1 class="wow cssanimation lePushReleaseFrom sequence" data-wow-delay="1s">Shutterbird Is Bold </h1>
                                     <p class="wow cssanimation fadeInTop" data-wow-delay="1s">Lets Join Her To Restore Africa <br><br>Movies | Comics | Games | Brands  </p>
                                    
                                 </div>
@@ -95,7 +95,7 @@ ob_start(); // Start buffering output
                                 <img src="img/icon-2.jpg" alt="prmo icon" width="200px">
                                 <h3>Be Our Ambassador</h3>
                                 <p>To become our Ambassador</p>
-                                <a href="boa.html">Register </a>
+                                <a href="boa.php">Register </a>
 
                             </div>
                         </div>
@@ -106,8 +106,8 @@ ob_start(); // Start buffering output
                             <div class="promo-content">
                                 <img src="img/icon-3.jpg" alt="prmo icon" width="200px">
                                 <h3>Become A Fan</h3>
-                                <p> Urenna Amadi's fans area....  </p>
-				<a href="baf.html">Read More</a>
+                                <p> Shutterbird's fans area....  </p>
+				<a href="baf.php">Read More</a>
                                  
                          
 
@@ -120,7 +120,7 @@ ob_start(); // Start buffering output
                                 <img src="img/icon-1.jpg" alt="prmo icon" width="200px">
                                 <h3>Become A Volunteer</h3>
                                 <p>Register here to become a volunteer </p>
-                                <a href="bav.html">Register </a>
+                                <a href="bav.php">Register </a>
                             </div>
                         </div>
                     </div>
@@ -150,10 +150,10 @@ ob_start(); // Start buffering output
 
 
 
-                            <h2>About Urenna Amadi</h2>
+                            <h2>About Shutterbird</h2>
                             
                             <br>
-                            <a href="about.html" class="default-btn">Read More</a>
+                            <a href="about.php" class="default-btn">Read More</a>
                         </div>
                     </div>
                     <div class="col-md-6 xs-padding">
@@ -192,13 +192,13 @@ ob_start(); // Start buffering output
                                 
                            </div>
                             <div class="causes-details">
-                                <h3>URENNA AMADI CHARACTER LAUNCH</h3>
-                                <p>On the 27th of November 2021, Award-winning Filmmaker and Sculptor Urenna Amadi
-					 launched her most anticipated African-Nigerian superhero character, "Urenna Amadi",
+                                <h3>SHUTTERBIRD CHARACTER LAUNCH</h3>
+                                <p>On the 27th of November 2021, Award-winning Filmmaker and Sculptor Shutterbird
+					 launched her most anticipated African-Nigerian superhero character, "Shutterbird",
 					 which is said to have a unique characteristic of a filmmaker. The dynamic figure will 
 						appear in comics, games, cartoons, as well as being the face of a fast growing brand based on the character...</p>
                               
-                                <a href="news1.html" class="read-more">Read More</a>
+                                <a href="news1.php" class="read-more">Read More</a>
                             </div>
                         </div>
                     </div><!-- /Causes-1 -->
@@ -210,13 +210,13 @@ ob_start(); // Start buffering output
                                
                            </div>
                             <div class="causes-details">
-                                <h3>URENNA AMADI CHARACTER EXHIBITION</h3>
+                                <h3>SHUTTERBIRD CHARACTER EXHIBITION</h3>
                                 <p>Exhibitions are an amazing opportunity for a large number of buyers and sellers in an industry
 			 to come into direct contact with each other at the same time. Exhibitions and trade shows bring together like-minded 
 			individuals either through the same profession or similar industries to exchange contact information and further grow the 
 				company's message and brand image... </p>
                                 
-                                <a href="news2.html" class="read-more">Read More</a>
+                                <a href="news2.php" class="read-more">Read More</a>
                             </div>
 				
                         </div>
@@ -229,12 +229,12 @@ ob_start(); // Start buffering output
                                
                            </div>
                             <div class="causes-details">
-                               <h3>URENNA AMADI 3-D MODEL</h3>
+                               <h3>SHUTTERBIRD 3-D MODEL</h3>
                                 
 3-D modelling is the use of software to create a virtual three-dimensional model of some physical object. Over the past years, this technology has made a
  great impact across industries. It does not only help you visualize but also gives your client a concrete picture of your idea. Afriwood Films has
- expressed it's intentions to develop a 3-D model for it's superhero character Urenna Amadi... </p>
-                                <a href="news3.html" class="read-more">Read More</a>
+ expressed it's intentions to develop a 3-D model for it's superhero character Shutterbird... </p>
+                                <a href="news3.php" class="read-more">Read More</a>
                             </div>
                         </div>
                     </div><!-- /Causes-3 -->
@@ -242,7 +242,7 @@ ob_start(); // Start buffering output
             </div>
 
      <br>
-					<center> <a href="more.html" class="read-more"> <h3>More...</h3></a></center>
+					<center> <a href="more.php" class="read-more"> <h3>More...</h3></a></center>
 <br>
          <div class="get-m">  <div class="container"><br><br>
                 <div class="section-heading text-center mb-40">
@@ -258,7 +258,7 @@ ob_start(); // Start buffering output
                             <h3>Life is contextual.</h3>
                             <p>When you ignore context, you end up applying one method to every situation you encounter. Life is very contextual and it is a very important thing...
 ...</p>
-                       <a href="event1.html" class="default-btn">Read More</a>  </div>
+                       <a href="event1.php" class="default-btn">Read More</a>  </div>
                     </div><!-- Event-1 -->
                     <div class="events-item">
                         <div class="event-thumb">
@@ -267,7 +267,7 @@ ob_start(); // Start buffering output
                         <div class="event-details">
                             <h3>See Through Walls</h3>
                            <p>In life comes obstacles. Unavoidable, life and struggles go hand in hand, thus the saying nothing good comes easy. And because you want something good...</p>
-                         <a href="event2.html" class="default-btn">Read More</a></div>
+                         <a href="event2.php" class="default-btn">Read More</a></div>
                     </div><!-- Event-2 -->
                     <div class="events-item">
                         <div class="event-thumb">
@@ -277,7 +277,7 @@ ob_start(); // Start buffering output
                             <h3>Contentment</h3>
                            <p>Satisfaction with what comes. The attribute of not being greedy or wanting more than you can have. Contentment is a beautiful aspect for living , it is  ...</p>
                            
-                         <a href="event3.html" class="default-btn">Read More</a></div>
+                         <a href="event3.php" class="default-btn">Read More</a></div>
                     </div><!-- Event-3 -->
 		    <div class="events-item">
                         <div class="event-thumb">
@@ -287,7 +287,7 @@ ob_start(); // Start buffering output
                             <h3>Life and Purpose</h3>
                            <p>You are what you eat. While eating the right meal at the right time remains paramount, i would want to tell you something else.
 Good food, good life,...</p>
-                         <a href="event4.html" class="default-btn">Read More</a></div>
+                         <a href="event4.php" class="default-btn">Read More</a></div>
                     </div><!-- Event-4 -->
                     <div class="events-item">
                         <div class="event-thumb">
@@ -298,7 +298,7 @@ Good food, good life,...</p>
                            
                             <p>As an important part of living; relaxation is a quite interesting thing to do. After all stress and bustle, your body deserves a break,a time off to avoid...</p>
                            
-                        <a href="event5.html" class="default-btn">Read More</a> </div>
+                        <a href="event5.php" class="default-btn">Read More</a> </div>
                     </div><!-- Event-5 -->
 			<div class="events-item">
                         <div class="event-thumb">
@@ -308,13 +308,13 @@ Good food, good life,...</p>
                             <h3>Happines And Peace</h3>
                         <p>The basic things of life. A very important aspect of living, happiness. Happiness; a state of unmountable joy, the emotion of being happy. A human experience...</p>
                            
-                         <a href="event6.html" class="default-btn">Read More</a></div>
+                         <a href="event6.php" class="default-btn">Read More</a></div>
                     </div><!-- Event-6 -->
 
 
 
                 </div><br>
-           </div><center> <a href="motivate.html" class="read-more" ><h3>Veiw All</h3></a></center>
+           </div><center> <a href="motivate.php" class="read-more" ><h3>Veiw All</h3></a></center>
 <br>
 </div><br>
 <br><br>
@@ -393,7 +393,7 @@ Good food, good life,...</p>
                         </div>
                     </div>
                     <div class="testimonial-item">
-                        <p>Honestly I'm very pleased with the Urenna Amadi character. I think the Urenna Amadi character would make quite a difference because it's a black feminine character with a lot of potential.</p>
+                        <p>Honestly I'm very pleased with the Shutterbird character. I think the Shutterbird character would make quite a difference because it's a black feminine character with a lot of potential.</p>
                         <div class="testi-footer">
                            <img src="img/team-2.jpg" alt="profile">
                             <h4>Chinke Donald </h4>
@@ -401,14 +401,14 @@ Good food, good life,...</p>
                     </div>
                     
                     <div class="testimonial-item">
-                        <p>I believe the Urenna Amadi Character is the first of its kind to display pure African Culture, thats one of the qualities that makes it unique from other superhero movies.</p>
+                        <p>I believe the Shutterbird Character is the first of its kind to display pure African Culture, thats one of the qualities that makes it unique from other superhero movies.</p>
                         <div class="testi-footer">
                            <img src="img/team-4.jpg" alt="profile">
                             <h4>Gabriel Chukwu </h4>
                         </div>
                     </div>
 			<div class="testimonial-item">
-                        <p>I think the Urenna Amadi character is quite dynamic and interesting and definitely one to look out for.</p>
+                        <p>I think the Shutterbird character is quite dynamic and interesting and definitely one to look out for.</p>
                         <div class="testi-footer">
                            <img src="img/team-3.jpg" alt="profile">
                             <h4>Dennis Chinke</h4>

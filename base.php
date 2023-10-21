@@ -80,10 +80,10 @@
                         </div>
                       <div class="col-sm-8 text-right">
                                    <ul id="mainmenu" class="nav navbar-nav nav-menu">
-                                <li class="active"> <a href="index.html">Home</a></li>
-                                <li><a href="about.html">About</a></li>
-                                <li><a href="more.html">Event</a></li>
-                                <li><a href="motivate.html">Motivate</a></li>
+                                <li class="active"> <a href="index.php">Home</a></li>
+                                <li><a href="about.php">About</a></li>
+                                <li><a href="more.php">Event</a></li>
+                                <li><a href="motivate.php">Motivate</a></li>
                                
                             </ul>
                            
