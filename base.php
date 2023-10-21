@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
+    
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <meta name="description" content="">
     <meta name="author" content="DynamicLayers">
-    <?php $title = 'Base' ?>
+   
     <title><?php echo $title; ?> </title>
 
-    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.png">
 
     <!-- Font Awesome Icons CSS -->
     <link rel="stylesheet" href="css/font-awesome.min.css">
@@ -95,8 +96,14 @@
             </div>
         </header>
 
- 
-
+       
+        <main>
+             <?php echo $content; ?>
+        </main>
+       
+   
+        
+       
 
         <footer style="margin-top: 5rem;">
         <section class="widget-section padding">
@@ -123,7 +130,7 @@
                             <h3>Recent Updates</h3>
                              <ul class="widget-link">
                                 <li><a href="news1.php">Shutterbird character launch </a></li>
-                                <li><a href="news2.php">Urena Amadi character art exhibition </a></li>
+                                <li><a href="news2.php">Shutterbird character art exhibition </a></li>
                                 <li><a href="news3.php">Shutterbird 3-D model </a></li>
                             </ul>
                         </div>
