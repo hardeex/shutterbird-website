@@ -13,7 +13,7 @@ ob_start(); // Start buffering output
                     <h2><b>Become A Volunteer</b></h2>
                
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                         <li class="breadcrumb-item active">BECOME OUR FAN</li>
                     </ol>
                 </div>
@@ -49,11 +49,11 @@ background-color: #fefefe;
 <div class="body">
 <center><h3>WHO ARE OUR VOLUNTEERS?</h3></center>
                     <p>Our volunteers are people who freely commit their time and labour towards
- the Urenna Amadi brand's cause. Our volunteers are willing to work for the brand without being paid.
+ the Shutterbird brand's cause. Our volunteers are willing to work for the brand without being paid.
  Volunteers can offer to write comics, partake in awareness campaigns, distribute brand materials, etc.
 </p>
 <center><h3>WHAT ARE OUR VOLUTEERS ROLES AND RESPONSIBILITES?</h3></center>
-<p>An Urenna Amadi fan is a person who exhibits strong interest and admiration for our brand and it's activities. Collectively, the fans of Urenna Amadi brand constitute our fan base. Our fans serve as the voice of the brand to the public. They show their enthusiasm towards the brand in several ways, such as: engaging in rallies, holding or participating in our fan meetings and conventions, sharing our content on various social media platforms, as well as other creative activities.
+<p>An Shutterbird fan is a person who exhibits strong interest and admiration for our brand and it's activities. Collectively, the fans of Shutterbird brand constitute our fan base. Our fans serve as the voice of the brand to the public. They show their enthusiasm towards the brand in several ways, such as: engaging in rallies, holding or participating in our fan meetings and conventions, sharing our content on various social media platforms, as well as other creative activities.
 </p>
 
 <p>1).Keep internal information confidential</p>
@@ -62,11 +62,11 @@ background-color: #fefefe;
 <p>4).Assist with brand-sponsored events</p>
 <p>5).Accept and follow rules and guidelines of the volunteer role</p>
 <p>6).Donate funds and in-kind donations when necessary</p>
-<h3>HOW IMPORTANT ARE OUR FANS TO THE URENNA AMADI BRAND?</h3>
-<p>Our fans are very important to the growth and consistency of the Urenna Amadi brand. Through our fans, our brand is communicated a wide variety of people, which results in engagement towards the brand. Of course, every well meaning brand needs a dependable and relentless fan base to push the brand higher up the marketplace. This is the reason why our brand fans are very committed to the brand, and this commitment in turn translates into the greatest lifetime value of all our customers. A recent study shows that businesses successful in creating brand fans grow some 2.5 times faster than their competitors who don't.
+<h3>HOW IMPORTANT ARE OUR FANS TO THE SHUTTERBIRD BRAND?</h3>
+<p>Our fans are very important to the growth and consistency of the Shutterbird brand. Through our fans, our brand is communicated a wide variety of people, which results in engagement towards the brand. Of course, every well meaning brand needs a dependable and relentless fan base to push the brand higher up the marketplace. This is the reason why our brand fans are very committed to the brand, and this commitment in turn translates into the greatest lifetime value of all our customers. A recent study shows that businesses successful in creating brand fans grow some 2.5 times faster than their competitors who don't.
 </p>
 <h3>CONCLUSION</h3>
-<p>Volunteerism benefits everyone involved. Most successful organizations have been discovered to enlist the help of volunteers in supporting and consolidating their workforce, and this in turn has helped them attain the level they are in today. Therefore, Urenna Amadi brand have decided to thread in that path also and recruit volunteers so as to be undisputed in the marketplace.</p> 
+<p>Volunteerism benefits everyone involved. Most successful organizations have been discovered to enlist the help of volunteers in supporting and consolidating their workforce, and this in turn has helped them attain the level they are in today. Therefore, Shutterbird brand have decided to thread in that path also and recruit volunteers so as to be undisputed in the marketplace.</p> 
 
 						
 <center>

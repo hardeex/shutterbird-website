@@ -40,9 +40,9 @@ width:100%;
        
         <div class="body"><center><h2> BIO ABOUT OUR CHARACTER</h2><br></center>
 <center><h3>THE FIRST SUPER HERO CHARACTER IN AFRICA</h3></center>
-<p>Urenna Amadi, officially launches her superhero character and this embodies in reality a real life person.
- Being of such build and with matters of inspiration at heart, the character portrays Urenna Amadi and fully
- charges her into simply being, effortlessly. The character Urenna Amadi is the first African superhero character 
+<p>Shutterbird, officially launches her superhero character and this embodies in reality a real life person.
+ Being of such build and with matters of inspiration at heart, the character portrays Shutterbird and fully
+ charges her into simply being, effortlessly. The character Shutterbird is the first African superhero character 
 coming as a movie in cinemas. She is a superhero with her superpowers in her golden camera which possesses super abilities; 
 super strength, speed, super reflexes, durability, healing factor, night vision, aperture and heightened senses alert,
  acrobatics, stamina and agility, camera freezing and shooting capabilities. Urenna helps us find our strength, stand
@@ -50,7 +50,7 @@ super strength, speed, super reflexes, durability, healing factor, night vision,
  will power efficiently.</p>
 
 <center><h3>ABOUT THE PRODUCER</h3></center>
-<p>Urenna Amadi is a writer, editor, producer and a director, born in Nigeria, she is a graduate 
+<p>Shutterbird is a writer, editor, producer and a director, born in Nigeria, she is a graduate 
 of Imo State University where she obtained a BScs Degree in Fine And Applied Arts. Her journey into filmmaking
  started while in school, she directed a student short movie project in the Theatre Arts Department and since
  then she has directed seven short movies and two feature movies including ‘’Not A Slave’’. Officially unveiling 
